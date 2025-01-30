@@ -45,9 +45,9 @@
 ---
 
 ### 📌 Featured Projects  
-🔹 [**Face Recognition Attendance System**](https://github.com/asifkhan-hub/face-attendance) - **AI-based attendance using OpenCV & Django**  
-🔹 [**Shoplifting Detection with YOLOv8**](https://github.com/asifkhan-hub/shoplifting-detection) - **Real-time theft detection system**  
-🔹 [**ESP32 Smart Home Automation**](https://github.com/asifkhan-hub/smart-home-iot) - **IoT-based automation using MQTT & Django**  
+
+🔹 [**Face Recognition Attendance System**](https://github.com/asifkhan-hub/Face_recognition_based_attendance_system) - **AI-based attendance using OpenCV & Django**  
+🔹 [**Real Time Vehicle Speed and violation Tracking System With Django and Yolov11**](https://github.com/asifkhan-hub/Real-Time-Vehicle-Speed-and-violation-tracking-with-Yolov11-Django) - **Real Time Vehicle Speed and violation Tracking System With Django and Yolov11**  
 
 ---
 
